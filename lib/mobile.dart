@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 
 import 'adaptive_indicator.dart';
 import 'constants.dart';
-
+/////////////////////bbrancg
 class MobileScreen extends StatelessWidget {
   const MobileScreen({Key? key}) : super(key: key);
 
